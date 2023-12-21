@@ -50,6 +50,12 @@ Katkılarınızı bekliyoruz! Eğer projeye katkıda bulunmak isterseniz:
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
 
+## Medium Yazısı
+
+Yazdığım rehberin detaylarını Medium'da da bulabilirsiniz.
+
+[Medium'da Oku](https://medium.com/@erdalkama/net-maui-ile-merni̇s-kimlik-doğrulama-uygulaması-geliştirme-rehberi-kpspublic-a51ce5af247e)
+
 ## İletişim
 
 Eğer herhangi bir sorunuz, öneriniz ya da geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin.
